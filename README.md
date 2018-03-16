@@ -19,7 +19,7 @@ _This is a simple Html file and need no additional programs to run_
 
 ## Known Bugs
 
-_When resizing browser window, the txt gets squished in the main columns._
+_When resizing browser window, the txt gets squished in the sidebar._
 
 ## Support and contact details
 

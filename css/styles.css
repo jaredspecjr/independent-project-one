@@ -2,11 +2,12 @@ body{
   background-image: url("https://www.planwallpaper.com/static/images/backgrounds_2.jpg");
   background-position: center;
 }
-.col-md-4:first-of-type{
-  display: block;
-  max-width: 300px;
-  margin-right: 0px;
+
+a:hover{
+  background-color: green;
+  color: lightgreen;
 }
+
 .sidebar{
   float: left;
   background-color: tan;
@@ -14,9 +15,17 @@ body{
   border-color: #754f03;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 110px;
+  padding-bottom: 70px;
   max-width: 200px;
+  font-family: fantasy;
+  font-size: 15px;
 }
+
+.sentence{
+  text-indent: 10px;
+  list-style-position: inside;
+}
+
 
 .well{
   margin-right: 50px;
@@ -24,14 +33,15 @@ body{
   border-color: #754f03;
   border-radius: 10px;
   background-color: tan;
-  padding-bottom: 300px;
+  padding-bottom: 310px;
+  min-width: 500px;
 }
+
 .well h4{
   text-align: center;
 }
 
 img{
-  display: block;
   padding-top: 90px;
   padding-bottom: 25px;
   max-width: 300px;
@@ -47,4 +57,11 @@ img{
 .special{
   font-family: sans-serif;
   color: #513601;
+}
+
+@media screen and (max-width: 800px) {
+  .sidebar {
+    float: none;
+    max-width: 500px;
+  }
 }
