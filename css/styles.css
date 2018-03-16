@@ -1,5 +1,5 @@
 body{
-  background-color: gray;
+  background-color: #af996b;
 }
 .col-md-4:first-of-type{
   display: block;
@@ -10,18 +10,25 @@ body{
   float: left;
   background-color: tan;
   border-style: ridge;
-  border-color: green;
+  border-color: #754f03;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 110px;
+  max-width: 200px;
 }
+
 .well{
+  margin-right: 50px;
   border-style: ridge;
-  border-color: green;
+  border-color: #754f03;
+  border-radius: 10px;
   background-color: tan;
   padding-bottom: 300px;
-  padding-top: 50px;
 }
 .well h4{
   text-align: center;
 }
+
 img{
   display: block;
   padding-top: 90px;
@@ -30,13 +37,15 @@ img{
   max-height: 230px;
   transform: rotate(270deg);
 }
-.well:last-of-type{
-  text-align: center;
-}
 
 h5{
   line-height: 25px;
 }
 .col-md-12 h2{
   text-align: center;
+}
+
+.special{
+  font-family: sans-serif;
+  color: #513601;
 }
