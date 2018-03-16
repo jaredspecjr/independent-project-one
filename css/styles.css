@@ -3,9 +3,20 @@ body{
   background-position: center;
 }
 
+a:link{
+  color: #107c15;
+  font-size: 20px;
+}
+
+a:visited{
+  color: #107c15;
+  font-size: 20px;
+}
+
 a:hover{
   background-color: green;
   color: lightgreen;
+  font-size: 20px;
 }
 
 .sidebar{
