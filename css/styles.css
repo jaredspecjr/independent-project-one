@@ -1,1 +1,9 @@
-
+.col-md-4:first-of-type{
+  max-width: 260px;
+  text-align: center;
+}
+.well{
+  padding-bottom: 500px;
+  margin-right: auto;
+  text-align: center;
+}
