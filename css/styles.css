@@ -1,4 +1,5 @@
 .col-md-4:first-of-type{
+  display: block;
   max-width: 260px;
   text-align: center;
 }
@@ -6,4 +7,12 @@
   padding-bottom: 500px;
   margin-right: auto;
   text-align: center;
+}
+img{
+  display: block;
+  align-content: center;
+  padding-top: 50px;
+  max-width: 500px;
+  max-height: 200px;
+  transform: rotate(270deg);
 }
