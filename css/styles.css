@@ -1,5 +1,6 @@
 body{
-  background-color: #af996b;
+  background-image: url("https://www.planwallpaper.com/static/images/backgrounds_2.jpg");
+  background-position: center;
 }
 .col-md-4:first-of-type{
   display: block;
@@ -38,11 +39,9 @@ img{
   transform: rotate(270deg);
 }
 
-h5{
-  line-height: 25px;
-}
 .col-md-12 h2{
   text-align: center;
+  padding-bottom: 30px;
 }
 
 .special{
