@@ -4,10 +4,10 @@ body{
 .col-md-4:first-of-type{
   display: block;
   max-width: 300px;
-  text-align: center;
   margin-right: 0px;
 }
-.jumbotron{
+.sidebar{
+  float: left;
   background-color: tan;
   border-style: ridge;
   border-color: green;
@@ -19,6 +19,9 @@ body{
   padding-bottom: 300px;
   padding-top: 50px;
 }
+.well h4{
+  text-align: center;
+}
 img{
   display: block;
   padding-top: 90px;
@@ -27,8 +30,8 @@ img{
   max-height: 230px;
   transform: rotate(270deg);
 }
-.jobexp{
-  padding-left: 20px;
+.well:last-of-type{
+  text-align: center;
 }
 
 h5{
