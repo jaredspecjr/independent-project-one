@@ -19,7 +19,7 @@ _This is a simple Html file and need no additional programs to run_
 
 ## Known Bugs
 
-_When resizing browser window, the sidebar gets lost or squished behind the main columns of txt._
+_When resizing browser window, the txt gets squished in the main columns._
 
 ## Support and contact details
 
@@ -28,6 +28,10 @@ _If you have any issues please report them to Jared Lutz at jaredspecjr@gmail.co
 ## Technologies Used
 
 _atom, github, css, and html were used to accomplish this._
+
+## Github Pages
+
+_https://jaredspecjr.github.io/independent-project-one/_
 
 ### License
 
