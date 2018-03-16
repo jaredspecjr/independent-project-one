@@ -1,19 +1,30 @@
+body{
+  background-color: gray;
+}
 .col-md-4:first-of-type{
   display: block;
-  max-width: 260px;
+  max-width: 300px;
   text-align: center;
+  margin-right: 0px;
+}
+.jumbotron{
+  background-color: tan;
+  border-style: ridge;
+  border-color: green;
 }
 .well{
+  border-style: ridge;
+  border-color: green;
+  background-color: tan;
   padding-bottom: 300px;
-  padding-left: 10px;
-
+  padding-top: 50px;
 }
 img{
   display: block;
-  align-content: center;
-  padding-top: 50px;
-  max-width: 140px;
-  max-height: 200px;
+  padding-top: 90px;
+  padding-bottom: 25px;
+  max-width: 300px;
+  max-height: 230px;
   transform: rotate(270deg);
 }
 .jobexp{
@@ -23,6 +34,6 @@ img{
 h5{
   line-height: 25px;
 }
-h2{
-  line-height: 5px;
+.col-md-12 h2{
+  text-align: center;
 }
