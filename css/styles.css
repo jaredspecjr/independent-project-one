@@ -4,15 +4,25 @@
   text-align: center;
 }
 .well{
-  padding-bottom: 500px;
-  margin-right: auto;
-  text-align: center;
+  padding-bottom: 300px;
+  padding-left: 10px;
+
 }
 img{
   display: block;
   align-content: center;
   padding-top: 50px;
-  max-width: 500px;
+  max-width: 140px;
   max-height: 200px;
   transform: rotate(270deg);
+}
+.jobexp{
+  padding-left: 20px;
+}
+
+h5{
+  line-height: 25px;
+}
+h2{
+  line-height: 5px;
 }
