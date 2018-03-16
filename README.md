@@ -33,4 +33,4 @@ _atom, github, css, and html were used to accomplish this._
 
 *MIT License.*
 
-Copyright (c) 2018 **_{Jared Lutz}_**
+Copyright (c) 2018 **_Jared Lutz_**
