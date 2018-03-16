@@ -23,7 +23,7 @@ _When resizing browser window, the sidebar gets lost or squished behind the main
 
 ## Support and contact details
 
-_{If you have any issues please report them to Jared Lutz at jaredspecjr@gmail.com. If you yourself find a solution to a problem you find in my code, don't hesitate to add or experiment!.}_
+_If you have any issues please report them to Jared Lutz at jaredspecjr@gmail.com. If you yourself find a solution to a problem you find in my code, don't hesitate to add or experiment!._
 
 ## Technologies Used
 
@@ -31,6 +31,6 @@ _atom, github, css, and html were used to accomplish this._
 
 ### License
 
-*{MIT License.}*
+*MIT License.*
 
 Copyright (c) 2018 **_{Jared Lutz}_**
